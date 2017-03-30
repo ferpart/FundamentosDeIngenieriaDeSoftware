@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.text.DecimalFormat;
 
 public class Poligonos {
-	ArrayList<double []> poligono;
+	private ArrayList<double []> poligono;
 	
 	public Poligonos(){
 		this(null);
